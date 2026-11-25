@@ -1,0 +1,15 @@
+# Secrets
+.env
+backend/.env
+frontend/.env
+
+# Dependencies
+/node_modules/
+/frontend/node_modules/
+
+# Build output
+/dist/
+/frontend/dist/
+
+# Cache
+/.vite/
